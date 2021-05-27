@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T05:18:08.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="94BQny33pqqHUJAOg4k-" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T05:18:31.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="XqG1j5Z6gALy0yLI6TKX" version="14.7.2" type="github">
   <diagram id="DjmKvpMPj76WyyVE7rOA" name="第 1 页">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -20,25 +20,6 @@
               <mxPoint x="360" y="190" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RQov7nCR_VS5uk_aP8Sw-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;shadow=0;sketch=1;" edge="1" source="RQov7nCR_VS5uk_aP8Sw-8" target="RQov7nCR_VS5uk_aP8Sw-9" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RQov7nCR_VS5uk_aP8Sw-7" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;shadow=0;sketch=1;" edge="1" source="RQov7nCR_VS5uk_aP8Sw-8" target="RQov7nCR_VS5uk_aP8Sw-10" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="547" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="Central Idea" treeRoot="1" id="RQov7nCR_VS5uk_aP8Sw-8">
-          <mxCell style="ellipse;whiteSpace=wrap;html=1;align=center;collapsible=0;container=1;recursiveResize=0;shadow=0;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="587" y="260" width="100" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="RQov7nCR_VS5uk_aP8Sw-9" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];strokeColor=#000000;fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;collapsible=0;container=1;recursiveResize=0;autosize=1;shadow=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="240" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RQov7nCR_VS5uk_aP8Sw-10" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;collapsible=0;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;shadow=0;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="280" width="72" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
