@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T06:05:00.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="OYDpczmrPd9fZpK5tIxQ" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T06:19:11.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="0FnlxK9Om-tMt29ySuPb" version="14.7.2" type="github">
   <diagram id="DjmKvpMPj76WyyVE7rOA" name="第 1 页">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="9GUXN84mYo8q_pWZlE_W-1" value="设备" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="125" width="100" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="BjLBW3dljGuR_zNLv0Eb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="9GUXN84mYo8q_pWZlE_W-2" target="9GUXN84mYo8q_pWZlE_W-1">
+        <mxCell id="BjLBW3dljGuR_zNLv0Eb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="9GUXN84mYo8q_pWZlE_W-2" target="9GUXN84mYo8q_pWZlE_W-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="355" />
@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w-xTbwYYfsJBi3QpZyPe-1" value="返回权限下发是否成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="BjLBW3dljGuR_zNLv0Eb-1">
+        <mxCell id="w-xTbwYYfsJBi3QpZyPe-1" value="返回权限下发是否成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BjLBW3dljGuR_zNLv0Eb-1" connectable="0" vertex="1">
           <mxGeometry x="-0.15" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BjLBW3dljGuR_zNLv0Eb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="dAte2DTPsHevccOQeKAc-1" target="BjLBW3dljGuR_zNLv0Eb-2">
+        <mxCell id="BjLBW3dljGuR_zNLv0Eb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="dAte2DTPsHevccOQeKAc-1" target="BjLBW3dljGuR_zNLv0Eb-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="250" />
@@ -65,16 +65,16 @@
             <mxPoint x="-63" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BjLBW3dljGuR_zNLv0Eb-2" value="事件服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="BjLBW3dljGuR_zNLv0Eb-2" value="事件服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="125" width="70" height="455" as="geometry" />
         </mxCell>
-        <mxCell id="BjLBW3dljGuR_zNLv0Eb-4" value="门禁管理&lt;br&gt;应用服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="BjLBW3dljGuR_zNLv0Eb-4" value="门禁管理&lt;br&gt;应用服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="125" width="80" height="455" as="geometry" />
         </mxCell>
-        <mxCell id="BjLBW3dljGuR_zNLv0Eb-5" value="迅达电梯&lt;br&gt;接口服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="BjLBW3dljGuR_zNLv0Eb-5" value="迅达电梯&lt;br&gt;接口服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="125" width="80" height="455" as="geometry" />
         </mxCell>
-        <mxCell id="BjLBW3dljGuR_zNLv0Eb-6" value="App server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="BjLBW3dljGuR_zNLv0Eb-6" value="App server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="125" width="80" height="455" as="geometry" />
         </mxCell>
       </root>
