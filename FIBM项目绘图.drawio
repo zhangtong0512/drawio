@@ -1,1 +1,59 @@
-<mxfile host="Electron" modified="2021-05-27T05:53:20.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.6.13 Chrome/89.0.4389.128 Electron/12.0.7 Safari/537.36" etag="mMZ6vEtm1W3OS3SbW7zN" version="14.6.13" type="device"><diagram id="DjmKvpMPj76WyyVE7rOA" name="第 1 页">5Vhdc6M2FP01ekyHb4tHcEh2Wneb3Wwnzb5kZBCGRFhUyLG9v74SCAMGY3vXafoxwyTi6kpC95x7j2RgTrPNLUN58iuNMAGGFm2AeQ0MQ9cmhvgnLdvKMoFmZViwNFJOjeE+/Ybrkcq6SiNcdBw5pYSnedcY0uUSh7xjQ4zRddctpqS7ao4WuGe4DxHpWx/SiCfK6thW0/EBp4ukXlp33KonQ7W32kqRoIiuWyYzAOaUUcqrVraZYiKjVwemGndzoHf3ZQwv+SkD3Nvf//gIreyRwj+f8oevJHh6uFKzvCKyUjsGgQvcCfAgCMRfB0BdNnwfQAsElmz4jje9V3vi2zpSYnu5bK4yMktjTNKlePNzzNIMc8xED1Hmu8bmr5OU4/schXLoWnBI2BKeEfGmi6aAlSMxhO3eCUF5kc7LVTVhYThcsSJ9xZ9xUbFHWumKy5WmO1ZIY5wSMqWEsvKDzcjGMLKEveCMvuBWDzTmpuPInhfMw0St3Y93HTzMON60TCr+t5iKbbKtcKl7J4oLKht0w67e1y1uaconadHKcpQRKT4vdnM3iIuGAn2YAP7zzH8wI/J8u/r89O3j7FUL5jUBWkDiSGSAeqWMJ3RBl4gEjdVndLWMcFTHeuczozRXwXrGnG9VOqMVp11YI1Qk5fjRuBZ0xUI8Ql5VWzhiC8yPk1xubBQlhgnigkrdKjIQ8XKoxxjathxymi550Zr5Thoa8E2jC77p7uXref6iUX1Bg/1uKyfRYX21+TJfPz7Gxc9+an7Kv27v8GA9gMC/Aa7Ifhu4PnADEDjAvQaikstSIR6tLAwQQF/6QOGslz4QeDflKE0WEmGBsHQWPh5wbwaZN0NzISEdtiCSLpaiHQqClEVDJlwqarSnOrI0iipiyhqAmuKgIBGT2z6wr3dk62XsTkDU4KZqt3l5OIEOZvyV9pOucvw8dvXosDeAxnEhSL+f/udRYCyrWhTIs6KvAf8BAUAYxuGQADghxPP4DQTAtN9TAAbhhv2M30e2hUc/o9oAN1LQhngv7HGMnXAw7NHEnWva8bCP0vZkLCy7A0Ud4A4SfSDgW+HgDlTewararbwjWO2XyTnlnGZl4BHjnjwdS8zEisKGl1FtmRMavtRuSsPhW+B4qs7XB/9jOg/fROf7wmx2mWNodneKakNqVEOLsw8Mura3zmUPAJHHsXH95a74gF/D8LdP+BcvPHwAgHbZCOQjxECcB3xb8tEzSpUX4h4Az1ZU9cz/nzw0p+ILiYVtvqdYDLKjfzb4x4vFKMv/BWIx+P3mSWIhLJ585BFcl8dx0fB1dYIX3+ZNeuj9DZe/79cB2NeBMZZeTgd+CCvrPYJ8/g17LE+OKu/FIz6siPbE6SqiZZ6kvJcSR/uQOHZux5a0eOVhDepSHN/tnnu0DloH6uCh+/DYPXeiuWYHnZoVPwj6ldOd1uhO8D0XYfHa/O5auTc/X5vBXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-27T05:55:57.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="aEIV6XmLfrdPT5vGv2mJ" version="14.7.2" type="github">
+  <diagram id="DjmKvpMPj76WyyVE7rOA" name="第 1 页">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9GUXN84mYo8q_pWZlE_W-1" value="门禁组件ACS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="125" width="100" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="BjLBW3dljGuR_zNLv0Eb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="9GUXN84mYo8q_pWZlE_W-2" target="9GUXN84mYo8q_pWZlE_W-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="390" />
+              <mxPoint x="340" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-xTbwYYfsJBi3QpZyPe-1" value="返回权限下发是否成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="BjLBW3dljGuR_zNLv0Eb-1">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GUXN84mYo8q_pWZlE_W-2" value="pms组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="125" width="100" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="9GUXN84mYo8q_pWZlE_W-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" parent="9GUXN84mYo8q_pWZlE_W-2" vertex="1">
+          <mxGeometry x="45" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9GUXN84mYo8q_pWZlE_W-9" value="下发权限" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" parent="1" source="9GUXN84mYo8q_pWZlE_W-1" target="9GUXN84mYo8q_pWZlE_W-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="205" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="330" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dAte2DTPsHevccOQeKAc-1" value="迅达电梯接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="125" width="100" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="dAte2DTPsHevccOQeKAc-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;" parent="dAte2DTPsHevccOQeKAc-1" vertex="1">
+          <mxGeometry x="45" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dAte2DTPsHevccOQeKAc-3" value="下发人员属性" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9GUXN84mYo8q_pWZlE_W-8" target="dAte2DTPsHevccOQeKAc-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dAte2DTPsHevccOQeKAc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="dAte2DTPsHevccOQeKAc-1" target="9GUXN84mYo8q_pWZlE_W-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="596" y="243" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dAte2DTPsHevccOQeKAc-5" value="返回信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dAte2DTPsHevccOQeKAc-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.7093" y="-2" relative="1" as="geometry">
+            <mxPoint x="-63" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
