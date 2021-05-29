@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T03:22:02.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4484.7 Safari/537.36" etag="9-zzWYLJfOytovQOgJ-K" version="14.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-29T03:22:43.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4484.7 Safari/537.36" etag="Ubcq9qFFi6nfkD_tz7W6" version="14.7.2" type="github" pages="2">
   <diagram id="DjmKvpMPj76WyyVE7rOA" name="第 1 页">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,13 +133,8 @@
         <mxCell id="rMrcdXpScbqWHT7vx6dV-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rMrcdXpScbqWHT7vx6dV-1" source="rMrcdXpScbqWHT7vx6dV-13" target="rMrcdXpScbqWHT7vx6dV-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rMrcdXpScbqWHT7vx6dV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="rMrcdXpScbqWHT7vx6dV-1" source="rMrcdXpScbqWHT7vx6dV-13" target="rMrcdXpScbqWHT7vx6dV-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="495" y="295" />
-              <mxPoint x="495" y="298" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="rMrcdXpScbqWHT7vx6dV-22" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rMrcdXpScbqWHT7vx6dV-1" source="rMrcdXpScbqWHT7vx6dV-13" target="rMrcdXpScbqWHT7vx6dV-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rMrcdXpScbqWHT7vx6dV-13" value="指令1" style="whiteSpace=wrap;html=1;" vertex="1" parent="rMrcdXpScbqWHT7vx6dV-1">
           <mxGeometry x="360" y="280" width="60" height="30" as="geometry" />
