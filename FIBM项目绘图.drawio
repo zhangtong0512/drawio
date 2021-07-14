@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T06:13:41.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="_d0NKOLAdAsaN5GVFNhd" version="14.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-14T06:15:20.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ghhbuXCVgMyIQopKMIhj" version="14.8.5" type="github" pages="3">
   <diagram id="DjmKvpMPj76WyyVE7rOA" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,11 +226,11 @@
             <mxPoint y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tJ1gu8j6RgHEFcUyDW6T-14" value="3. 再次删除缓存" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tJ1gu8j6RgHEFcUyDW6T-1" source="tJ1gu8j6RgHEFcUyDW6T-3" target="tJ1gu8j6RgHEFcUyDW6T-5">
-          <mxGeometry x="0.4286" relative="1" as="geometry">
+        <mxCell id="tJ1gu8j6RgHEFcUyDW6T-14" value="3. 睡眠1s&lt;br&gt;再次删除缓存" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tJ1gu8j6RgHEFcUyDW6T-1" source="tJ1gu8j6RgHEFcUyDW6T-3" target="tJ1gu8j6RgHEFcUyDW6T-5">
+          <mxGeometry x="0.1429" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="330" />
-              <mxPoint x="490" y="330" />
+              <mxPoint x="490" y="350" />
+              <mxPoint x="490" y="350" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
