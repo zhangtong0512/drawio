@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T06:45:41.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="vdex-xmyx-MFeaQyhaFj" version="14.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-14T06:46:18.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="sXUCtHt7gxj6qUSUCD2I" version="14.8.5" type="github" pages="3">
   <diagram id="DjmKvpMPj76WyyVE7rOA" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
         <mxCell id="tJ1gu8j6RgHEFcUyDW6T-15" value="MQ" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;" vertex="1" parent="tJ1gu8j6RgHEFcUyDW6T-1">
           <mxGeometry x="70" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BiiLAKnQLjiAmW7rXqUB-5" value="更新数据库" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.192;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tJ1gu8j6RgHEFcUyDW6T-1" source="BiiLAKnQLjiAmW7rXqUB-0" target="BiiLAKnQLjiAmW7rXqUB-2">
+        <mxCell id="BiiLAKnQLjiAmW7rXqUB-5" value="1. 更新数据库" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.192;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tJ1gu8j6RgHEFcUyDW6T-1" source="BiiLAKnQLjiAmW7rXqUB-0" target="BiiLAKnQLjiAmW7rXqUB-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BiiLAKnQLjiAmW7rXqUB-0" value="写请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tJ1gu8j6RgHEFcUyDW6T-1">
@@ -278,8 +278,8 @@
         <mxCell id="BiiLAKnQLjiAmW7rXqUB-1" value="读请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tJ1gu8j6RgHEFcUyDW6T-1">
           <mxGeometry x="883" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BiiLAKnQLjiAmW7rXqUB-2" value="应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tJ1gu8j6RgHEFcUyDW6T-1">
-          <mxGeometry x="690" y="180" width="313" height="70" as="geometry" />
+        <mxCell id="BiiLAKnQLjiAmW7rXqUB-2" value="应用" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="tJ1gu8j6RgHEFcUyDW6T-1">
+          <mxGeometry x="690" y="180" width="310" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
