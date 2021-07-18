@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T13:51:37.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4484.7 Safari/537.36" etag="IpHFeusWtSkrgsikNpHb" version="14.8.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-18T09:53:07.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4557.4 Safari/537.36" etag="Ig4hlOXUlDFO4YCgIJYe" version="14.8.6" type="github" pages="3">
   <diagram id="DjmKvpMPj76WyyVE7rOA" name="第 1 页">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,7 +200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9aRFpRka_Osp3Z5zJMM2" name="MySQL和Redis双写一致性">
-    <mxGraphModel dx="1408" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="tJ1gu8j6RgHEFcUyDW6T-0" />
         <mxCell id="tJ1gu8j6RgHEFcUyDW6T-1" parent="tJ1gu8j6RgHEFcUyDW6T-0" />
