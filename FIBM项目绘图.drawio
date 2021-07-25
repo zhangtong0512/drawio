@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T07:15:35.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4557.4 Safari/537.36" etag="CyPVghd_zad1QVNHsLbx" version="14.9.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-25T07:16:35.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4557.4 Safari/537.36" etag="VOiM0X5ZJNKSK-4L4BCa" version="14.9.2" type="github" pages="4">
   <diagram id="DjmKvpMPj76WyyVE7rOA" name="第 1 页">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -396,8 +396,14 @@
         <mxCell id="8tOPt3ipoKif896vJT3D-1" value="写请求B" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="tJ1gu8j6RgHEFcUyDW6T-1">
           <mxGeometry x="340" y="620" width="100" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="8tOPt3ipoKif896vJT3D-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;" vertex="1" parent="8tOPt3ipoKif896vJT3D-1">
+          <mxGeometry x="45" y="140" width="10" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="8tOPt3ipoKif896vJT3D-2" value="缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="tJ1gu8j6RgHEFcUyDW6T-1">
           <mxGeometry x="510" y="620" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8tOPt3ipoKif896vJT3D-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;" vertex="1" parent="8tOPt3ipoKif896vJT3D-2">
+          <mxGeometry x="45" y="140" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8tOPt3ipoKif896vJT3D-3" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="tJ1gu8j6RgHEFcUyDW6T-1">
           <mxGeometry x="680" y="620" width="100" height="300" as="geometry" />
@@ -415,6 +421,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="730" as="sourcePoint" />
             <mxPoint x="230" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8tOPt3ipoKif896vJT3D-12" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="tJ1gu8j6RgHEFcUyDW6T-1" source="8tOPt3ipoKif896vJT3D-10" target="8tOPt3ipoKif896vJT3D-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="760" as="sourcePoint" />
+            <mxPoint x="470" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="760" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
